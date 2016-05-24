@@ -1,6 +1,6 @@
 //I've submitted a PR to the base branch with our updates. Hopefully he'll merge those in soon and we'll be able to drop this branch.
 Package.describe({
-    name: 'risul:moment-timezone',
+    name: 'hellotech:moment-timezone',
     summary: 'Timezone support for moment.js, packaged for Meteor',
     version: '0.5.4',
     git: 'https://github.com/risul/meteor-moment-timezone'
