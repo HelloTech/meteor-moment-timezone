@@ -10,7 +10,7 @@ Updated version of hellotech:moment-timezone package which seems to no longer be
 
 ##Install
 ```bach
-meteor add risul:moment-timezone
+meteor add hellotech:moment-timezone
 ```
 
 IANA Time Zone Database + [Moment.js](http://momentjs.com).
