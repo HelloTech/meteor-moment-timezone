@@ -2,7 +2,7 @@
 Package.describe({
     name: 'hellotech:moment-timezone',
     summary: 'Timezone support for moment.js, packaged for Meteor',
-    version: '0.5.4',
+    version: '0.5.4.1',
     git: 'https://github.com/HelloTech/meteor-moment-timezone'
 });
 
